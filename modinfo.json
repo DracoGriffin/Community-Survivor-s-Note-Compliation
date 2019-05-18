@@ -1,0 +1,11 @@
+[
+  {
+    "type": "MOD_INFO",
+    "ident": "community_survnote",
+    "name": "Community Survivor's Notes",
+    "authors": [ "Everyone" ],
+    "description": "A customized list of changes to survivor's notes and additions from the community and its adventures/stories.",
+    "category": "misc_additions",
+    "dependencies": [ "dda" ]
+  }
+]
