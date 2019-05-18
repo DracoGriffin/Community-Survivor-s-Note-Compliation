@@ -1531,6 +1531,12 @@
   },
   {
     "type": "snippet",
+    "category": "note",
+    "\\": "This is a meta note to realize this is a mod for a video, testing purposes only.",
+    "text": [ "\"If you are reading this, you have the Community Survivor's Notes mod installed.\"" ]
+  },
+  {
+    "type": "snippet",
     "category": "newest_news",
     "text": [
       "LABS BOMBED: In further invasion proof (discounting earlier suggestion of a riot drug) most of New England's scientific labs were bombed simultaneously yesterday.  No word yet from the military about who the aggressors are.",
